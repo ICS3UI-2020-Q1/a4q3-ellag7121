@@ -28,7 +28,7 @@ public class Main {
     }
 
     //tell the user the total sum
-    System.out.println("The sum from 1-" + number + " is " + sum);
+    System.out.println("The sum from 1 - " + number + " is " + sum);
     
   }
 }
